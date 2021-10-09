@@ -1,2 +1,1 @@
-# Pro-C69
-Bar Code Scanner
+# project69
